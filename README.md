@@ -18,112 +18,99 @@ Secara garis besar, alur program ini menggunakan konsep MVC dengan tahapan berik
 7. View menampilkan hasil proses kepada pengguna melalui browser.
 
 # Dokumentasi
+## Dokumentasi Program
+
 ### 1. Home
-![1. Home](Dokumentasi/01-home.png)
+![Home](Dokumentasi/1.png)
 
 ### 2. Lecturers
-<details>
-<summary>View Lecturers Documentation</summary>
 
-**2. Data Awal Lecturers**
-![2. Data Awal Lecturers](Dokumentasi/02-data-awal-lecturers.png)
+**Data Awal Lecturers**
+![Data Awal Lecturers](Dokumentasi/2.png)
 
-**3. Add Lecturer**
-![3. Add Lecturer](Dokumentasi/03-add-lecturer.png)
+**Add Lecturer**
+![Add Lecturer](Dokumentasi/3.png)
 
-**4. Setelah Add Lecturer**
-![4. Setelah Add Lecturer](Dokumentasi/04-setelah-add-lecturer.png)
+**Setelah Add Lecturer**
+![Setelah Add Lecturer](Dokumentasi/4.png)
 
-**5. Edit Lecturer**
-![5. Edit Lecturer](Dokumentasi/05-edit-lecturer.png)
+**Edit Lecturer**
+![Edit Lecturer](Dokumentasi/5.png)
 
-**6. Setelah Edit Lecturer**
-![6. Setelah Edit Lecturer](Dokumentasi/06-setelah-edit-lecturer.png)
+**Setelah Edit Lecturer**
+![Setelah Edit Lecturer](Dokumentasi/6.png)
 
-**7. Konfirmasi Hapus Data Lecturer**
-![7. Konfirmasi Hapus Lecturer](Dokumentasi/07-konfirmasi-hapus-lecturer.png)
+**Konfirmasi Hapus Data Lecturer**
+![Konfirmasi Hapus Lecturer](Dokumentasi/7.png)
 
-**8. Setelah Hapus Lecturer**
-![8. Setelah Hapus Lecturer](Dokumentasi/08-setelah-hapus-lecturer.png)
-</details>
+**Setelah Hapus Lecturer**
+![Setelah Hapus Lecturer](Dokumentasi/8.png)
 
 ### 3. Courses
-<details>
-<summary>View Courses Documentation</summary>
 
-**9. Data Awal Course**
-![9. Data Awal Course](Dokumentasi/09-data-awal-course.png)
+**Data Awal Course**
+![Data Awal Course](Dokumentasi/9.png)
 
-**10. Add Course**
-![10. Add Course](Dokumentasi/10-add-course.png)
+**Add Course**
+![Add Course](Dokumentasi/10.png)
 
-**11. Setelah Add Course**
-![11. Setelah Add Course](Dokumentasi/11-setelah-add-course.png)
+**Setelah Add Course**
+![Setelah Add Course](Dokumentasi/11.png)
 
-**12. Edit Course**
-![12. Edit Course](Dokumentasi/12-edit-course.png)
+**Edit Course**
+![Edit Course](Dokumentasi/12.png)
 
-**13. Setelah Edit Course**
-![13. Setelah Edit Course](Dokumentasi/13-setelah-edit-course.png)
+**Setelah Edit Course**
+![Setelah Edit Course](Dokumentasi/13.png)
 
-**14. Konfirmasi Hapus Data Course**
-![14. Konfirmasi Hapus Course](Dokumentasi/14-konfirmasi-hapus-course.png)
+**Konfirmasi Hapus Data Course**
+![Konfirmasi Hapus Course](Dokumentasi/14.png)
 
-**15. Setelah Hapus Course**
-![15. Setelah Hapus Course](Dokumentasi/15-setelah-hapus-course.png)
-
-</details>
+**Setelah Hapus Course**
+![Setelah Hapus Course](Dokumentasi/15.png)
 
 ### 4. Lecturer Courses
-<details>
-<summary>View Lecturer Courses Documentation</summary>
 
-**16. Data Awal Lecturer Course**
-![16. Data Awal Lecturer Course](Dokumentasi/16-data-awal-lecturer-course.png)
+**Data Awal Lecturer Course**
+![Data Awal Lecturer Course](Dokumentasi/16.png)
 
-**17. Add Lecturer Course**
-![17. Add Lecturer Course](Dokumentasi/17-add-lecturer-course.png)
+**Add Lecturer Course**
+![Add Lecturer Course](Dokumentasi/17.png)
 
-**18. Setelah Add Lecturer Course**
-![18. Setelah Add Lecturer Course](Dokumentasi/18-setelah-add-lecturer-course.png)
+**Setelah Add Lecturer Course**
+![Setelah Add Lecturer Course](Dokumentasi/18.png)
 
-**19. Edit Lecturer Course**
-![19. Edit Lecturer Course](Dokumentasi/19-edit-lecturer-course.png)
+**Edit Lecturer Course**
+![Edit Lecturer Course](Dokumentasi/19.png)
 
-**20. Setelah Edit Lecturer Course**
-![20. Setelah Edit Lecturer Course](Dokumentasi/20-setelah-edit-lecturer-course.png)
+**Setelah Edit Lecturer Course**
+![Setelah Edit Lecturer Course](Dokumentasi/20.png)
 
-**21. Konfirmasi Hapus Data Lecturer Course**
-![21. Konfirmasi Hapus Lecturer Course](Dokumentasi/21-konfirmasi-hapus-lecturer-course.png)
+**Konfirmasi Hapus Lecturer Course**
+![Konfirmasi Hapus Lecturer Course](Dokumentasi/21.png)
 
-**22. Setelah Hapus Lecturer Course**
-![22. Setelah Hapus Lecturer Course](Dokumentasi/22-setelah-hapus-lecturer-course.png)
-
-</details>
+**Setelah Hapus Lecturer Course**
+![Setelah Hapus Lecturer Course](Dokumentasi/22.png)
 
 ### 5. Schedules
-<details>
-<summary>View Schedules Documentation</summary>
 
-**23. Data Awal Schedule**
-![23. Data Awal Schedule](Dokumentasi/23-data-awal-schedule.png)
+**Data Awal Schedule**
+![Data Awal Schedule](Dokumentasi/23.png)
 
-**24. Add Schedule**
-![24. Add Schedule](Dokumentasi/24-add-schedule.png)
+**Add Schedule**
+![Add Schedule](Dokumentasi/24.png)
 
-**25. Setelah Add Schedule**
-![25. Setelah Add Schedule](Dokumentasi/25-setelah-add-schedule.png)
+**Setelah Add Schedule**
+![Setelah Add Schedule](Dokumentasi/25.png)
 
-**26. Edit Schedule**
-![26. Edit Schedule](Dokumentasi/26-edit-schedule.png)
+**Edit Schedule**
+![Edit Schedule](Dokumentasi/26.png)
 
-**27. Setelah Edit Schedule**
-![27. Setelah Edit Schedule](Dokumentasi/27-setelah-edit-schedule.png)
+**Setelah Edit Schedule**
+![Setelah Edit Schedule](Dokumentasi/27.png)
 
-**28. Konfirmasi Hapus Data Schedule**
-![28. Konfirmasi Hapus Schedule](Dokumentasi/28-konfirmasi-hapus-schedule.png)
+**Konfirmasi Hapus Schedule**
+![Konfirmasi Hapus Schedule](Dokumentasi/28.png)
 
-**29. Setelah Hapus Schedule**
-![29. Setelah Hapus Schedule](Dokumentasi/29-setelah-hapus-schedule.png)
-
-</details>
+**Setelah Hapus Schedule**
+![Setelah Hapus Schedule](Dokumentasi/29.png)
